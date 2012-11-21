@@ -16,7 +16,7 @@
         "symfony/console": ">=2.0",
 		"symfony/class-loader": ">=2.0",
         "doctrine/common": ">=2.2.0",
-        "doctrine/mongodb": ">=1.0.0-beta1,<1.1-dev"
+        "doctrine/mongodb": "1.0.x-dev"
     },
     "autoload": {
         "psr-0": { "Doctrine\\ODM\\MongoDB": "lib/" }
